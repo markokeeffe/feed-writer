@@ -1,0 +1,15 @@
+{
+  "name": "markokeeffe/feed-writer",
+  "description": "Write simple RSS feeds",
+  "authors": [
+    {
+      "name": "Mark O'Keeffe",
+      "email": "mark.ok@me.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "MOK\\FeedWriter": "src/"
+    }
+  }
+}
